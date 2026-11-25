@@ -1,0 +1,10 @@
+{
+  "algorithm-language": "Python",
+  "parameters": {
+    "target_vol": 0.10,
+    "max_drawdown_limit": 0.08,
+    "rebalance_buffer": 0.0025
+  },
+  "description": "Multi-asset minimum-variance and volatility-targeted allocation with drawdown circuit breakers.",
+  "local-id": 1001
+}
